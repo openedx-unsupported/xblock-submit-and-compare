@@ -1,3 +1,13 @@
+![Status](https://img.shields.io/badge/status-deprecated-red)
+
+> ## ⚠️ This Repository is Deprecated
+> This repository is no longer maintained.
+>
+The Submit and Compare XBlock has been moved to:
+> 👉 https://github.com/openedx/xblocks-extra
+>
+> Please use the new repository for all future work.
+
 Submit and Compare XBlock
 =========================
 This XBlock provides a way to do an ungraded self assessment activity.  It is useful for synthesis questions, or questions which require the student to answer in her own words.  After the student submits her answer, she is able to see the instructor's answer, and compare her answer to the expert answer.
