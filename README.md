@@ -5,7 +5,7 @@
 
 .. warning::
 
-   This ``xbblock-submit-and-compare`` repository is being archived. The Qualtrics Survey XBlock
+   This ``xbblock-submit-and-compare`` repository is being archived. The XBlock
    is moving to the `xblocks-extra <https://github.com/openedx/xblocks-extra>`_ repository,
    which consolidates optional add-on XBlocks for the Open edX platform.
 
