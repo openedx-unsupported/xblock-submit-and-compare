@@ -1,12 +1,21 @@
 ![Status](https://img.shields.io/badge/status-deprecated-red)
 
-> ## ⚠️ This Repository is Deprecated
-> This repository is no longer maintained.
->
-The Submit and Compare XBlock has been moved to:
-> 👉 https://github.com/openedx/xblocks-extra
->
-> Please use the new repository for all future work.
+⚠️ Repository Migration Notice ⚠️
+***********************************
+
+.. warning::
+
+   This ``xbblock-submit-and-compare`` repository is being archived. The Qualtrics Survey XBlock
+   is moving to the `xblocks-extra <https://github.com/openedx/xblocks-extra>`_ repository,
+   which consolidates optional add-on XBlocks for the Open edX platform.
+
+   **Archival:** This repository will become read-only once the migration is complete.
+   No further updates or changes will be accepted here.
+
+   Please use `xblocks-extra <https://github.com/openedx/xblocks-extra>`_ for all future work.
+   If you have any questions or concerns, please open an issue on the
+   `xblocks-extra issue tracker <https://github.com/openedx/xblocks-extra/issues>`_.
+
 
 Submit and Compare XBlock
 =========================
